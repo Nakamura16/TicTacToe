@@ -39,6 +39,7 @@
             button7 = new Button();
             button8 = new Button();
             button9 = new Button();
+            button10 = new Button();
             SuspendLayout();
             // 
             // label1
@@ -160,11 +161,24 @@
             button9.UseVisualStyleBackColor = true;
             button9.Click += PlayerClick;
             // 
+            // button10
+            // 
+            button10.BackColor = SystemColors.AppWorkspace;
+            button10.Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point);
+            button10.Location = new Point(348, 461);
+            button10.Name = "button10";
+            button10.Size = new Size(111, 27);
+            button10.TabIndex = 20;
+            button10.Text = "RestartGame";
+            button10.UseVisualStyleBackColor = false;
+            button10.Click += RestartGame;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(471, 500);
+            Controls.Add(button10);
             Controls.Add(button7);
             Controls.Add(button8);
             Controls.Add(button9);
@@ -195,5 +209,6 @@
         private Button button7;
         private Button button8;
         private Button button9;
+        private Button button10;
     }
 }
