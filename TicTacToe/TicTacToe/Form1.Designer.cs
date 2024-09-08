@@ -70,6 +70,7 @@
             button1.TabIndex = 11;
             button1.Text = "?";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += PlayerClick;
             // 
             // button2
             // 
@@ -80,6 +81,7 @@
             button2.TabIndex = 12;
             button2.Text = "?";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += PlayerClick;
             // 
             // button3
             // 
@@ -90,6 +92,7 @@
             button3.TabIndex = 13;
             button3.Text = "?";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += PlayerClick;
             // 
             // button4
             // 
@@ -100,6 +103,7 @@
             button4.TabIndex = 16;
             button4.Text = "?";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += PlayerClick;
             // 
             // button5
             // 
@@ -110,6 +114,7 @@
             button5.TabIndex = 15;
             button5.Text = "?";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += PlayerClick;
             // 
             // button6
             // 
@@ -120,6 +125,7 @@
             button6.TabIndex = 14;
             button6.Text = "?";
             button6.UseVisualStyleBackColor = true;
+            button6.Click += PlayerClick;
             // 
             // button7
             // 
@@ -130,6 +136,7 @@
             button7.TabIndex = 19;
             button7.Text = "?";
             button7.UseVisualStyleBackColor = true;
+            button7.Click += PlayerClick;
             // 
             // button8
             // 
@@ -140,6 +147,7 @@
             button8.TabIndex = 18;
             button8.Text = "?";
             button8.UseVisualStyleBackColor = true;
+            button8.Click += PlayerClick;
             // 
             // button9
             // 
@@ -150,6 +158,7 @@
             button9.TabIndex = 17;
             button9.Text = "?";
             button9.UseVisualStyleBackColor = true;
+            button9.Click += PlayerClick;
             // 
             // Form1
             // 

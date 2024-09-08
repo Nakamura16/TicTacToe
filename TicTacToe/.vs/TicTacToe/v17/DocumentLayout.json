@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\estudos C#\\TicTacToe\\TicTacToe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45E40D47-F18B-4E38-8DE2-844A7EA2FD3A}|TicTacToe\\TicTacToe.csproj|c:\\users\\andre\\desktop\\estudos c#\\tictactoe\\tictactoe\\tictactoe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E40D47-F18B-4E38-8DE2-844A7EA2FD3A}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E40D47-F18B-4E38-8DE2-844A7EA2FD3A}|TicTacToe\\TicTacToe.csproj|c:\\users\\andre\\desktop\\estudos c#\\tictactoe\\tictactoe\\tictactoe\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E40D47-F18B-4E38-8DE2-844A7EA2FD3A}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45E40D47-F18B-4E38-8DE2-844A7EA2FD3A}|TicTacToe\\TicTacToe.csproj|c:\\users\\andre\\desktop\\estudos c#\\tictactoe\\tictactoe\\tictactoe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{45E40D47-F18B-4E38-8DE2-844A7EA2FD3A}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\estudos C#\\TicTacToe\\TicTacToe\\TicTacToe\\Model\\Player.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\Model\\Player.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\estudos C#\\TicTacToe\\TicTacToe\\TicTacToe\\Model\\Player.cs",
+              "RelativeToolTip": "TicTacToe\\Model\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:11:56.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\estudos C#\\TicTacToe\\TicTacToe\\TicTacToe\\Form1.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\estudos C#\\TicTacToe\\TicTacToe\\TicTacToe\\Form1.cs",
+              "RelativeToolTip": "TicTacToe\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:05:37.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\estudos C#\\TicTacToe\\TicTacToe\\TicTacToe\\Form1.cs",
               "RelativeDocumentMoniker": "TicTacToe\\Form1.cs",
